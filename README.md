@@ -175,7 +175,7 @@ prediction = evaluate(model, tokenizer, prompt)
 ## 📁 Project Structure
 
 ```
-Snappfood_llm_proj/
+/
 ├── project.ipynb                            # Main notebook
 ├── train.csv                                # Training dataset
 ├── dev.csv                                  # Development dataset  
